@@ -1,0 +1,110 @@
+{
+    "caninos" : [
+        {
+            "id" : 1,
+            "Nombre" : "Chester",
+            "edad" : "edad 1",
+            "raza" : "Golden retriever",
+            "direccion" : "direccion 1",
+            "personalidades" : "per 1, per 2, per 3",
+            "extra" : {
+                "titulo" : "titulo 1",
+                "descripcion" : "desc 1"
+            },
+            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609717/reto1/perros/q3joyzrjfcvja7hky4n6.png"
+        },
+        {
+            "id" : 3,
+            "Nombre" : "Chester",
+            "edad" : "edad 2",
+            "raza" : "Chihuahua",
+            "direccion" : "direccion 2",
+            "personalidades" : "per 1, per 2, per 3",
+            "extra" : {
+                "titulo" : "titulo 1",
+                "descripcion" : "desc 1"
+            },
+            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609717/reto1/perros/crogofbyg4r3hznqx6nq.png"
+        },
+        {
+            "id" : 2,
+            "Nombre" : "Rocky",
+            "edad" : "3 Meses",
+            "raza" : "Rottweiler",
+            "direccion" : "4140 Parker Rd.Allentown, New Mexico 31134",
+            "personalidades" : "cariñoso, inquieto, juguetón",
+            "extra" : {
+                "titulo" : "Historia de Rocky",
+                "descripcion" : "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
+            },
+            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609717/reto1/perros/mibzgeidixyia7wuz4xa.png"
+        },
+        {
+            "id" : 4,
+            "Nombre" : "perro 4",
+            "edad" : "edad 4",
+            "raza" : "Bichón frisé",
+            "direccion" : "direccion 4",
+            "personalidades" : "per 1, per 2, per 3",
+            "extra" : {
+                "titulo" : "titulo 1",
+                "descripcion" : "desc 1"
+            },
+            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609717/reto1/perros/cveurawpebdfk6mebgui.png"
+        }
+    ],
+    "gatitos" : [
+        {
+            "id" : 1,
+            "Nombre" : "gato 1",
+            "edad" : "edad 1",
+            "raza" : "gato amarillo",
+            "direccion" : "direccion 1",
+            "personalidades" : "per 1, per 2, per 3",
+            "extra" : {
+                "titulo" : "titulo 1",
+                "descripcion" : "desc 1"
+            },
+            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609815/reto1/gatos/zk9qvnxrjkt03v5cdswu.png"
+        },
+        {
+            "id" : 2,
+            "Nombre" : "gato 2",
+            "edad" : "edad 2",
+            "raza" : "gato negro",
+            "direccion" : "direccion 2",
+            "personalidades" : "per 1, per 2, per 3",
+            "extra" : {
+                "titulo" : "titulo 1",
+                "descripcion" : "desc 1"
+            },
+            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609815/reto1/gatos/pfb0x6afh2ilwwdzwphv.png"
+        },
+        {
+            "id" : 3,
+            "Nombre" : "gato 3",
+            "edad" : "edad 3",
+            "raza" : "gato blanco",
+            "direccion" : "direccion 3",
+            "personalidades" : "per 1, per 2, per 3",
+            "extra" : {
+                "titulo" : "titulo 1",
+                "descripcion" : "desc 1"
+            },
+            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609814/reto1/gatos/qce1csmq93gzpbjsfxkb.png"
+        },
+        {
+            "id" : 4,
+            "Nombre" : "gato 4",
+            "edad" : "edad 4",
+            "raza" : "gato morado",
+            "direccion" : "direccion 4",
+            "personalidades" : "per 1, per 2, per 3",
+            "extra" : {
+                "titulo" : "titulo 1",
+                "descripcion" : "desc 1"
+            },
+            "url" : "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702609815/reto1/gatos/j4ochchrwcwaunoyzfqn.png"
+        }
+    ]
+}
