@@ -7,7 +7,11 @@
             "raza" : "Golden retriever",
             "direccion" : "direccion 1",
             "sexo" : "masculino",
-            "personalidades" : "per1, per2, per3",
+            "personalidades" : {
+                "cariñoso" : true,
+                "inquieto" : false,
+                "jugueton" : true
+            },
             "extra" : {
                 "titulo" : "titulo 1",
                 "descripcion" : "desc 1"
@@ -21,7 +25,11 @@
             "raza" : "Chihuahua",
             "direccion" : "direccion 2",
             "sexo" : "masculino",
-            "personalidades" : "per1, per2, per3",
+            "personalidades" : {
+                "cariñoso" : true,
+                "inquieto" : true,
+                "jugueton" : true
+            },
             "extra" : {
                 "titulo" : "titulo 1",
                 "descripcion" : "desc 1"
@@ -34,7 +42,11 @@
             "edad" : "3 Meses",
             "raza" : "Rottweiler",
             "sexo" : "masculino",
-            "personalidades" : "per1, per2, per3",
+            "personalidades" : {
+                "cariñoso" : true,
+                "inquieto" : false,
+                "jugueton" : false
+            },
             "extra" : {
                 "titulo" : "Historia de Rocky",
                 "descripcion" : "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
@@ -48,7 +60,11 @@
             "raza" : "Bichón frisé",
             "direccion" : "direccion 4",
             "sexo" : "masculino",
-            "personalidades" : "per1, per2, per3",
+            "personalidades" : {
+                "cariñoso" : false,
+                "inquieto" : false,
+                "jugueton" : true
+            },
             "extra" : {
                 "titulo" : "titulo 1",
                 "descripcion" : "desc 1"
