@@ -6,11 +6,11 @@
             "edad" : "edad 1",
             "raza" : "Golden retriever",
             "direccion" : "direccion 1",
-            "sexo" : " "masculino",
+            "sexo" : "masculino",
             "personalidades" : {
-                "cariñoso" : "true"
-                "inquieto" : "false"
-                "jugueton" : "true"
+                "cariñoso" : "true",
+                "inquieto" : "false",
+                "jugueton" : "true",
             },
             "extra" : {
                 "titulo" : "titulo 1",
@@ -24,11 +24,11 @@
             "edad" : "edad 2",
             "raza" : "Chihuahua",
             "direccion" : "direccion 2",
-            "sexo" : " "masculino",
+            "sexo" : "masculino",
             "personalidades" : {
-                "cariñoso" : "true"
-                "inquieto" : "true"
-                "jugueton" : "true"
+                "cariñoso" : "true",
+                "inquieto" : "true",
+                "jugueton" : "true",
             },
             "extra" : {
                 "titulo" : "titulo 1",
@@ -41,11 +41,11 @@
             "Nombre" : "Rocky",
             "edad" : "3 Meses",
             "raza" : "Rottweiler",
-            "sexo" : " "masculino",
+            "sexo" : "masculino",
             "personalidades" : {
-                "cariñoso" : "true"
-                "inquieto" : "false"
-                "jugueton" : "true"
+                "cariñoso" : "true",
+                "inquieto" : "false",
+                "jugueton" : "true",
             },
             "extra" : {
                 "titulo" : "Historia de Rocky",
@@ -59,11 +59,11 @@
             "edad" : "edad 4",
             "raza" : "Bichón frisé",
             "direccion" : "direccion 4",
-            "sexo" : " "masculino",
+            "sexo" : "masculino",
             "personalidades" : {
-                "cariñoso" : "true"
-                "inquieto" : "false"
-                "jugueton" : "true"
+                "cariñoso" : "true",
+                "inquieto" : "false",
+                "jugueton" : "true",
             },
             "extra" : {
                 "titulo" : "titulo 1",
