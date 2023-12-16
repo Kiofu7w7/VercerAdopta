@@ -6,7 +6,12 @@
             "edad" : "edad 1",
             "raza" : "Golden retriever",
             "direccion" : "direccion 1",
-            "personalidades" : "per 1, per 2, per 3",
+            "sexo" : " "masculino",
+            "personalidades" : {
+                "cariñoso" : "true"
+                "inquieto" : "false"
+                "jugueton" : "true"
+            },
             "extra" : {
                 "titulo" : "titulo 1",
                 "descripcion" : "desc 1"
@@ -19,7 +24,12 @@
             "edad" : "edad 2",
             "raza" : "Chihuahua",
             "direccion" : "direccion 2",
-            "personalidades" : "per 1, per 2, per 3",
+            "sexo" : " "masculino",
+            "personalidades" : {
+                "cariñoso" : "true"
+                "inquieto" : "true"
+                "jugueton" : "true"
+            },
             "extra" : {
                 "titulo" : "titulo 1",
                 "descripcion" : "desc 1"
@@ -31,8 +41,12 @@
             "Nombre" : "Rocky",
             "edad" : "3 Meses",
             "raza" : "Rottweiler",
-            "direccion" : "4140 Parker Rd.Allentown, New Mexico 31134",
-            "personalidades" : "cariñoso, inquieto, juguetón",
+            "sexo" : " "masculino",
+            "personalidades" : {
+                "cariñoso" : "true"
+                "inquieto" : "false"
+                "jugueton" : "true"
+            },
             "extra" : {
                 "titulo" : "Historia de Rocky",
                 "descripcion" : "Rocky es un perrito muy lindo y cariñoso, tiene 5 hermanitos más y por cuestiones de espacio y tiempo no podremos cuidar a todos, nuestra misión es encontrar la familia ideal para él y seguro que tú eres la persona indicada."
@@ -45,7 +59,12 @@
             "edad" : "edad 4",
             "raza" : "Bichón frisé",
             "direccion" : "direccion 4",
-            "personalidades" : "per 1, per 2, per 3",
+            "sexo" : " "masculino",
+            "personalidades" : {
+                "cariñoso" : "true"
+                "inquieto" : "false"
+                "jugueton" : "true"
+            },
             "extra" : {
                 "titulo" : "titulo 1",
                 "descripcion" : "desc 1"
