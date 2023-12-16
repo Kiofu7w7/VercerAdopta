@@ -6,7 +6,7 @@
             "edad" : "edad 1",
             "raza" : "Golden retriever",
             "direccion" : "direccion 1",
-            "sexo" : "masculino",
+            "sexo" : "hembra",
             "personalidades" : {
                 "cariñoso" : true,
                 "inquieto" : false,
@@ -24,7 +24,7 @@
             "edad" : "edad 2",
             "raza" : "Chihuahua",
             "direccion" : "direccion 2",
-            "sexo" : "masculino",
+            "sexo" : "macho",
             "personalidades" : {
                 "cariñoso" : true,
                 "inquieto" : true,
@@ -41,7 +41,7 @@
             "Nombre" : "Rocky",
             "edad" : "3 Meses",
             "raza" : "Rottweiler",
-            "sexo" : "masculino",
+            "sexo" : "macho",
             "personalidades" : {
                 "cariñoso" : true,
                 "inquieto" : false,
@@ -59,7 +59,7 @@
             "edad" : "edad 4",
             "raza" : "Bichón frisé",
             "direccion" : "direccion 4",
-            "sexo" : "masculino",
+            "sexo" : "macho",
             "personalidades" : {
                 "cariñoso" : false,
                 "inquieto" : false,
