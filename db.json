@@ -8,9 +8,9 @@
             "direccion" : "direccion 1",
             "sexo" : "masculino",
             "personalidades" : {
-                "cariñoso" : "true",
-                "inquieto" : "false",
-                "jugueton" : "true",
+                "cariñoso" : true,
+                "inquieto" : false,
+                "jugueton" : true,
             },
             "extra" : {
                 "titulo" : "titulo 1",
@@ -26,9 +26,9 @@
             "direccion" : "direccion 2",
             "sexo" : "masculino",
             "personalidades" : {
-                "cariñoso" : "true",
-                "inquieto" : "true",
-                "jugueton" : "true",
+                "cariñoso" : true,
+                "inquieto" : true,
+                "jugueton" : true,
             },
             "extra" : {
                 "titulo" : "titulo 1",
@@ -43,9 +43,9 @@
             "raza" : "Rottweiler",
             "sexo" : "masculino",
             "personalidades" : {
-                "cariñoso" : "true",
-                "inquieto" : "false",
-                "jugueton" : "true",
+                "cariñoso" : true,
+                "inquieto" : false,
+                "jugueton" : false,
             },
             "extra" : {
                 "titulo" : "Historia de Rocky",
@@ -61,9 +61,9 @@
             "direccion" : "direccion 4",
             "sexo" : "masculino",
             "personalidades" : {
-                "cariñoso" : "true",
-                "inquieto" : "false",
-                "jugueton" : "true",
+                "cariñoso" : false,
+                "inquieto" : false,
+                "jugueton" : true,
             },
             "extra" : {
                 "titulo" : "titulo 1",
