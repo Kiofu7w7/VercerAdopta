@@ -158,8 +158,8 @@
     "usuarios": [
         {
             "id": "1",
-            "nombre": "John",
-            "apellidos": "Doe",
+            "nombre": "Santiago",
+            "apellidos": "Buitrago",
             "email": "johndoe@example.com",
             "password": "password123",
             "telefono": "1234567890",
