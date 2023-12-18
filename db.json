@@ -205,6 +205,20 @@
                 "miembro2_id": "2"
             },
             "mensajes:": "1:'Hola como estas'|2:'Bien y tu'|2:'Como te fue en el examen'|1:'Lo mas de bien gracias'"
+        },{
+            "id": "2",
+            "integrantes": {
+                "miembro1_id": "4",
+                "miembro2_id": "3"
+            },
+            "mensajes:": "4:'FAIL'|3:'FAIL 2'|3:'FAIL3'|4:'FAIL 4'"
+        },{
+            "id": "3",
+            "integrantes": {
+                "miembro1_id": "1",
+                "miembro2_id": "5"
+            },
+            "mensajes:": "1:'CHAT 2'|5:'CHAT 2'|5:'CHAT 2'|1:'CHAT 2'"
         }
     ]
 }
