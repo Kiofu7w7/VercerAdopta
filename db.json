@@ -162,7 +162,8 @@
             "email": "johndoe@example.com",
             "password": "password123",
             "telefono": "1234567890",
-            "id_mascotas": "1.'1'|2.'4'"
+            "id_mascotas": "1.'1'|2.'4'",
+            "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png"
         },
         {
             "id": "2",
@@ -170,7 +171,8 @@
             "email": "janesmith@example.com",
             "password": "password456",
             "telefono": "0987654321",
-            "id_mascotas": ""
+            "id_mascotas": "",
+            "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png"
         },
         {
             "id": "3",
@@ -178,7 +180,8 @@
             "email": "robertjohnson@example.com",
             "password": "password789",
             "telefono": "9876543210",
-            "id_mascotas": ""
+            "id_mascotas": "",
+            "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png"
         },
         {
             "id": "4",
@@ -186,7 +189,8 @@
             "email": "emilydavis@example.com",
             "password": "passwordabc",
             "telefono": "0123456789",
-            "id_mascotas": ""
+            "id_mascotas": "",
+            "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png"
         },
         {
             "id": "5",
@@ -194,7 +198,8 @@
             "email": "michaelbrown@example.com",
             "password": "passworddef",
             "telefono": "6789012345",
-            "id_mascotas": ""
+            "id_mascotas": "",
+            "url_foto_perfil": "https://png.pngtree.com/background/20230519/original/pngtree-young-woman-anime-cartoon-drawing-picture-image_2660945.jpg"
         }
     ],
     "chats": [
