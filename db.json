@@ -158,7 +158,8 @@
     "usuarios": [
         {
             "id": "1",
-            "nombre": "John Doe",
+            "nombre": "John",
+            "apellidos" "Doe",
             "email": "johndoe@example.com",
             "password": "password123",
             "telefono": "1234567890",
@@ -167,7 +168,8 @@
         },
         {
             "id": "2",
-            "nombre": "Jane Smith",
+            "nombre": "Jane",
+            "apellidos": "Smith",
             "email": "janesmith@example.com",
             "password": "password456",
             "telefono": "0987654321",
@@ -176,7 +178,8 @@
         },
         {
             "id": "3",
-            "nombre": "Robert Johnson",
+            "nombre": "Robert",
+            "apellidos": "Johnson",
             "email": "robertjohnson@example.com",
             "password": "password789",
             "telefono": "9876543210",
@@ -185,7 +188,8 @@
         },
         {
             "id": "4",
-            "nombre": "Emily Davis",
+            "nombre": "Emily",
+            "apellidos": "Davis",
             "email": "emilydavis@example.com",
             "password": "passwordabc",
             "telefono": "0123456789",
@@ -194,7 +198,8 @@
         },
         {
             "id": "5",
-            "nombre": "Michael Brown",
+            "nombre": "Michael",
+            "apellidos": "Brown",
             "email": "michaelbrown@example.com",
             "password": "passworddef",
             "telefono": "6789012345",
