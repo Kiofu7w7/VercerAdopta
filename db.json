@@ -209,21 +209,21 @@
                 "miembro1_id": "1",
                 "miembro2_id": "2"
             },
-            "mensajes:": "1:'Hola como estas',13:23|2:'Bien y tu',13:25|2:'Como te fue en el examen',13:28|1:'Lo mas de bien gracias',13:32"
+            "mensajes": "1:'Hola como estas',13:23|2:'Bien y tu',13:25|2:'Como te fue en el examen',13:28|1:'Lo mas de bien gracias',13:32"
         },{
             "id": "2",
             "integrantes": {
                 "miembro1_id": "4",
                 "miembro2_id": "3"
             },
-            "mensajes:": "4:'FAIL'|3:'FAIL 2'|3:'FAIL3'|4:'FAIL 4'"
+            "mensajes": "4:'FAIL'|3:'FAIL 2'|3:'FAIL3'|4:'FAIL 4'"
         },{
             "id": "3",
             "integrantes": {
                 "miembro1_id": "1",
                 "miembro2_id": "5"
             },
-            "mensajes:": "1:'CHAT 2',13:10|5:'CHAT 2',13:12|5:'CHAT 2',13:14|1:'CHAT 2',13:15"
+            "mensajes": "1:'CHAT 2',13:10|5:'CHAT 2',13:12|5:'CHAT 2',13:14|1:'CHAT 2',13:15"
         }
     ]
 }
