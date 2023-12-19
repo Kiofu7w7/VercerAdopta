@@ -164,7 +164,8 @@
             "password": "password123",
             "telefono": "1234567890",
             "id_mascotas": "1.'1'|2.'4'",
-            "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png"
+            "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png",
+            "id_mascotas_favoritas":"1|2"
         },
         {
             "id": "2",
@@ -174,7 +175,8 @@
             "password": "password456",
             "telefono": "0987654321",
             "id_mascotas": "",
-            "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png"
+            "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png",
+            "id_mascotas_favoritas":"4|1"
         },
         {
             "id": "3",
@@ -184,7 +186,8 @@
             "password": "password789",
             "telefono": "9876543210",
             "id_mascotas": "",
-            "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png"
+            "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png",
+            "id_mascotas_favoritas":"3|2"
         },
         {
             "id": "4",
@@ -194,7 +197,8 @@
             "password": "passwordabc",
             "telefono": "0123456789",
             "id_mascotas": "",
-            "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png"
+            "url_foto_perfil": "https://res.cloudinary.com/dlwr6vxib/image/upload/v1702749557/reto1/qtpfaldxggxfcy9o85up.png",
+            "id_mascotas_favoritas":"2|1"
         },
         {
             "id": "5",
@@ -204,7 +208,8 @@
             "password": "passworddef",
             "telefono": "6789012345",
             "id_mascotas": "",
-            "url_foto_perfil": "https://png.pngtree.com/background/20230519/original/pngtree-young-woman-anime-cartoon-drawing-picture-image_2660945.jpg"
+            "url_foto_perfil": "https://png.pngtree.com/background/20230519/original/pngtree-young-woman-anime-cartoon-drawing-picture-image_2660945.jpg",
+            "id_mascotas_favoritas":"4|2"
         }
     ],
     "chats": [
